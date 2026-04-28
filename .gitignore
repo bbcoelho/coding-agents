@@ -1,0 +1,4 @@
+bin/
+auth.json
+sessions/
+.DS_Store
