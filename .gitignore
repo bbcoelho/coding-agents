@@ -2,3 +2,4 @@ bin/
 auth.json
 sessions/
 .DS_Store
+pi-crash.log
