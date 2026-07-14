@@ -1,4 +1,5 @@
 # Coding Rules
+- Do not start coding before asking me to.
 
 ## Code Style
 - Indent with **tabs** (not spaces).
